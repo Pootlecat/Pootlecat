@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pootlecat
 - 👀 I’m interested in learning.
 - 🌱 I’m currently learning GitHub.
-- 💞️ I’m looking to collaborate on something?
 - 📫 How to reach me: pootlecat@mac.com
 
 <!---
